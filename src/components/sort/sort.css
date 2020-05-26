@@ -1,0 +1,15 @@
+.sortby-section {
+    display: flex;
+    width: 100%;
+    margin-top: 15px;
+}
+.sortby-title {
+    width: 100%;
+    text-align: right;
+}
+.sort-label {
+    color: #01579b;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 15px 10px;
+}

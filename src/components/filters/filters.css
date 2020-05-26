@@ -1,0 +1,18 @@
+.filters-section [type="checkbox"].filled-in:checked+span:after {
+    border-color: #01579b;
+    background: #01579b;
+}
+
+.filters-section [type="checkbox"].filled-in:not(:checked)+span:not(.lever):after {
+    color: #01579b;
+    top: 3px;
+}
+
+.filter-title {
+    color: #01579b;
+    font-weight: bold;
+}
+
+.filter-label {
+    color: #0288d1
+}

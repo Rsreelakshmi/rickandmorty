@@ -1,0 +1,18 @@
+.search-field,
+.search-btn {
+    display: inline-block;
+}
+
+.search-container .search-field {
+    border: 1px solid grey !important;
+    border-radius: 3px !important;
+    box-shadow: none !important;
+    height: 40px !important;
+    margin-right: 10px !important;
+}
+.search-container .search-btn {
+    margin: 0 10px;
+    border-radius: 3px;
+    box-shadow: none;
+    min-height: 42px;
+}
